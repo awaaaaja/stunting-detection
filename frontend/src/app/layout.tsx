@@ -11,7 +11,12 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "StuntingDetect — Deteksi Dini Risiko Stunting",
   description:
-    "Sistem deteksi dini risiko stunting pada balita berbasis ML + XAI. Masukkan data balita untuk prediksi, analisis SHAP, dan rekomendasi.",
+    "Sistem berbasis ML (Random Forest 99.04%), SHAP Explainability, dan RAG berbasis PNPK & WHO untuk klasifikasi risiko stunting pada balita. Dibangun dari 38.487 sampel Riskesdas 2018.",
+  openGraph: {
+    title: "StuntingDetect",
+    description:
+      "Deteksi dini risiko stunting dengan AI — akurat, interpretable, berbasis pedoman nasional.",
+  },
 };
 
 export default function RootLayout({
@@ -19,7 +24,10 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="id" className={`${inter.variable} h-full`}>
-      <body className="h-full font-sans" style={{ fontFamily: "var(--font-inter)" }}>
+      <body
+        className="h-full font-sans antialiased"
+        style={{ fontFamily: "var(--font-inter)" }}
+      >
         {children}
       </body>
     </html>
