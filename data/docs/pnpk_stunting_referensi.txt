@@ -1,0 +1,107 @@
+PEDOMAN NASIONAL PELAYANAN KEDOKTERAN TATA LAKSANA STUNTING
+KEPUTUSAN MENTERI KESEHATAN NOMOR HK.01.07/MENKES/1928/2022
+
+BAB I - DEFINISI DAN DIAGNOSIS STUNTING
+
+Stunting adalah gangguan pertumbuhan dan perkembangan anak akibat kekurangan gizi kronis dan infeksi berulang, yang ditandai dengan panjang atau tinggi badannya berada di bawah standar yang ditetapkan oleh menteri kesehatan. Stunting pada balita berdasarkan WHO masih menjadi masalah kesehatan masyarakat yaitu diatas 20%. Penyebab stunting multifaktorial dan berkaitan dengan asupan gizi yang kurang atau kebutuhan gizi yang meningkat. Stunting memiliki dampak jangka pendek dan jangka panjang yang irreversible.
+
+Diagnosis stunting ditegakkan berdasarkan anamnesis, pemeriksaan fisik, pemeriksaan antropometri dan pemeriksaan penunjang (Peringkat bukti 1, derajat rekomendasi A). Pengukuran antropometrik harus menggunakan teknik dan alat ukur standar secara benar. Pengukuran panjang badan anak berusia di bawah dua tahun dilakukan menggunakan infantometer, sedangkan anak berusia dua tahun atau lebih diukur menggunakan stadiometer (Peringkat bukti 1, derajat rekomendasi A).
+
+Pada setiap anak pendek harus dilakukan evaluasi sebagai berikut:
+a. Langkah pertama: membedakan antara pendek yang merupakan varian normal dengan kondisi patologis. Perawakan pendek patologis dikategorikan menjadi proporsional dan disproporsional (Peringkat bukti 2, derajat rekomendasi A).
+b. Langkah kedua: menentukan stunting atau bukan melalui penilaian laju pertumbuhan (weight dan length increment < persentil lima) dan menghitung Potensi Tinggi Genetik (PTG) (Peringkat bukti 2, derajat rekomendasi A).
+
+Pemeriksaan penunjang dilakukan berdasarkan indikasi medis yang ditemukan, sedangkan pemeriksaan usia tulang (bone age) dilakukan pada anak usia dua tahun ke atas (Peringkat bukti 2, derajat rekomendasi A). Skrining TBC harus dilakukan pada semua anak stunting (Peringkat bukti 2, derajat rekomendasi A). Perlu dilakukan pemeriksaan perkembangan pada anak stunting, pemeriksaan lanjutan dilakukan pada yang terindikasi (Peringkat bukti 1, derajat rekomendasi A).
+
+Klasifikasi status gizi:
+- BB/U < -3 SD: Sangat kurang
+- BB/U -2 SD s/d -3 SD: Berat badan kurang
+- BB/U -2 SD s/d +2 SD: Berat badan cukup
+- TB/U < -3 SD: Sangat pendek
+- TB/U -2 SD s/d -3 SD: Pendek
+- TB/U -2 SD s/d +2 SD: Normal
+- BB/TB < -3 SD: Gizi buruk
+- BB/TB -2 SD s/d -3 SD: Gizi kurang
+- BB/TB -2 SD s/d +2 SD: Normal
+
+Indeks panjang badan atau tinggi badan menurut umur dan jenis kelamin (PB/U atau TB/U) < -2 SD berdasarkan kurva WHO 2006 untuk anak 0-5 tahun.
+
+BAB II - PENCEGAHAN STUNTING
+
+Pencegahan stunting terdiri atas pencegahan primer, sekunder dan tersier.
+
+1. Pencegahan Primer (Promotif)
+Pencegahan primer dilakukan mulai dari tingkat kader di posyandu. Kader melakukan pemantauan pertumbuhan, pengukuran Panjang Badan atau Tinggi Badan (PB atau TB) dan Berat Badan (BB) menggunakan alat dan metode pengukuran standar, serta memberikan edukasi kepada orang tua/pengasuh mengenai pemberian ASI eksklusif dan MPASI dengan kandungan gizi lengkap terutama protein hewani. Saat pelaksanaan posyandu, diusahakan Pemberian Makanan Tambahan (PMT) yang mengandung protein hewani seperti telur, ayam, ikan, daging, susu dan produk olahan susu. Jika didapatkan anak dengan PB atau TB berdasarkan usia dan jenis kelamin < -2 SD, BB/U < -2 SD, atau weight faltering (kenaikan berat tidak memadai) dan growth deceleration (perlambatan pertumbuhan linier), maka anak tersebut harus dirujuk ke Fasilitas Kesehatan Tingkat Pertama (FKTP) atau puskesmas. Penimbangan berat badan dan pengukuran panjang badan di posyandu harus dilakukan setiap bulan untuk deteksi dini weight faltering.
+
+2. Pencegahan Sekunder
+Pencegahan sekunder dilakukan oleh dokter di fasilitas kesehatan tingkat pertama. Dokter melakukan konfirmasi pengukuran antropometrik sebelumnya dan penelusuran penyebab potensial stunting. Anak dengan berat badan rendah, weight faltering atau gizi kurang namun tidak berperawakan pendek (PB/U atau TB/U >= -2 SD) dapat diberikan Pangan untuk Keperluan Diet Khusus (PDK) sesuai indikasi dan/atau pangan padat energi yang mempunyai komposisi gizi yang memenuhi persyaratan PDK serta terbukti secara ilmiah mengatasi gizi kurang secara efektif. Pangan olahan yang termasuk dalam PKGK adalah susu formula standar untuk usia 0-12 bulan dan susu pertumbuhan untuk usia 1-3 tahun. Pemberian PDK diresepkan dan dipantau penggunaannya oleh dokter di FKTP.
+
+3. Pencegahan Tersier (Tata Laksana Stunting dan Risiko Stunting)
+Pencegahan tersier dilakukan oleh dokter spesialis anak di FKRTL. Dokter spesialis anak melakukan konfirmasi diagnosis stunting. Konseling diberikan untuk menyampaikan informasi kepada orang tua/pengasuh tentang pemeriksaan, diagnosis penyerta dan penyebab stunting pada anak. Edukasi juga dilakukan kepada orang tua/pengasuh dengan memberi anjuran cara pemberian makan sesuai usia dan kondisi anak dan penerapan aturan makan (feeding rules). Selain itu perlu diedukasi mengenai jenis terapi nutrisi yang diberikan dan mengajarkan cara pembuatannya menurut kaidah keamanan pangan.
+
+BAB III - TATA LAKSANA STUNTING
+
+Tata laksana stunting dilakukan oleh dokter spesialis anak di FKRTL yang meliputi tiga aspek:
+
+1. Tata Laksana Gizi
+Pemberian makan yang benar dan energi cukup dengan protein energy ratio (PER) 10-15%. Kebutuhan kalori pada anak yang tidak sakit kritis ditentukan berdasarkan Recommended Dietary Allowance (RDA) atau Angka Kecukupan Gizi (AKG). Kebutuhan total kalori dihitung berdasarkan berat badan ideal dikalikan RDA menurut usia tinggi (height age).
+
+Rute pemberian dapat berupa oral, enteral dan parenteral. Pemberian nutrisi melalui oral merupakan pilihan utama karena sesuai dengan proses fisiologi normal. Indikasi pemberian nutrisi enteral melalui selang adalah jika akseptabilitas tidak baik (<80%) atau terdapat kondisi medis tertentu yang menyebabkan asupan per oral sulit atau tidak diperbolehkan.
+
+Stunting dengan berbagai jenis status gizi diberikan PKMK (Pangan Keperluan Medis Khusus) secara penuh atau sebagian (oral atau per enteral) beserta makanan dengan komposisi seimbang yang mengutamakan sumber protein hewani. Pemberian PKMK harus berdasarkan indikasi dan diresepkan oleh dokter spesialis anak.
+
+WHO merekomendasikan 10-15% dari asupan energi berasal dari protein untuk menunjang tumbuh kejar. Sebagian besar protein hewani merupakan protein yang mencapai kategori kualitas protein sangat baik dengan skor Digestible Indispensable Amino Acid Score (DIAAS) >=100. Pemberian lebih dari satu sumber protein hewani akan menurunkan kejadian stunting.
+
+2. Aktivitas Fisik
+Melakukan olahraga/aktivitas fisik teratur paling tidak 30-60 menit, minimal 3-5 hari dalam seminggu.
+
+3. Durasi Tidur
+Jadwal tidur teratur dengan waktu tidur malam mulai pukul 21.00 untuk mencapai tidur dalam (deep sleep) pada pukul 23.00-03.00. Durasi tidur yang pendek yaitu <=12 jam per hari pada usia 3 bulan berhubungan dengan panjang badan yang rendah pada dua tahun pertama kehidupan.
+
+Penentuan jenis makanan:
+- Stunting, tidak underweight: mendapatkan susu formula pertumbuhan atau susu formula bayi dengan PER minimal 10%
+- Stunting underweight: mendapatkan PKMK 1 kkal/ml dengan PER minimal 10%
+- Stunting, gizi kurang: diberikan PKMK 1-1.5 kkal/ml dengan PER minimal 10%
+
+Pemantauan dan evaluasi dilakukan setiap 2 minggu, meliputi: akseptabilitas pemberian terapi nutrisi, toleransi pemberian terapi nutrisi, dan efektivitas pemberian terapi nutrisi.
+
+PDK (Pangan Diet Khusus) harus memenuhi 5 persyaratan khusus:
+1. Mempunyai ijin edar di BPOM sebagai susu bayi
+2. Berbasis protein hewani
+3. Memiliki protein energy ratio (PER) >10%
+4. Kadar gula tambahan maksimal 10%
+5. Hanya bisa diberikan atas indikasi medis, diresepkan dan dipantau oleh dokter
+
+Jumlah pemberian PDK dimulai dengan dosis 30% dari kebutuhan kalori. Pasien harus kontrol 2 minggu.
+
+BAB IV - SISTEM RUJUKAN
+
+Alur rujukan berjenjang dari tingkat posyandu ke puskesmas, hingga penanganan ke RSUD:
+
+1. Posyandu: Kader melakukan deteksi dini weight faltering, pengukuran antropometri, PMT, edukasi. Jika ditemukan anak stunting atau weight faltering dan growth deceleration maka rujuk ke FKTP atau Puskesmas.
+
+2. Puskesmas (FKTP): Dokter melakukan konfirmasi pengukuran antropometri, penelusuran penyebab potensial, pemberian PDK, pemeriksaan penunjang, konseling dan edukasi. Jika ada penyebab penyerta rujuk ke dokter spesialis anak.
+
+3. RSUD (FKRTL): Dokter spesialis anak melakukan konfirmasi diagnosis stunting, penelusuran perawakan pendek (varian normal atau patologis), menentukan penyebab berdasarkan growth velocity dan bone age, konseling dan edukasi feeding rules, terapi nutrisi.
+
+Jika teridentifikasi ada penyebab medis atau komplikasi yang mendasari misalnya penyakit jantung bawaan, dan tata laksana dengan PKGK tidak menunjukkan respon yang adekuat selama 1 minggu, maka anak dirujuk ke dokter spesialis anak di FKRTL.
+
+BAB V - EDUKASI GIZI BERDASARKAN USIA
+
+Kebutuhan protein hewani untuk cegah stunting pada balita:
+- Usia 6-8 bulan (ASI): 200 kkal, 15 gr protein, 30% protein hewani minimal = 4.5 gr (PER 9%). Contoh: 1 butir telur ayam (prot 6 gr).
+- Usia 9-11 bulan (ASI): 300 kkal, 15 gr protein, 50% protein hewani = 7.5 gr (PER 10%). Contoh: 1 butir telur ayam + 1/2 hati ayam.
+- Usia 12-24 bulan (ASI): 550 kkal, 20 gr protein, 70% protein hewani = 14 gr (PER 10%). Contoh: 1 butir telur ayam + 30 gr ikan kembung + 1 susu UHT 125 gr.
+- Usia 24-60 bulan: 1400 kkal, 20 gr protein, 100% protein hewani = 25 gr (PER 7.1%). Contoh: 2 butir telur ayam + 1 hati ayam atau 30 gr daging merah + 2 susu UHT 125 ml.
+
+Aturan makan (feeding rules) untuk balita 6-11 bulan dengan weight faltering, BB kurang, gizi kurang yang mendapat terapi nutrisi dengan PDK di puskesmas:
+- 06.00: ASI langsung (minimal 15 menit, maksimal 30 menit) atau ASI perah 150 ml
+- 08.00: Makan pagi + ikan/ayam/daging/telur (1-2 telur sehari)
+- 10.00: PDK 5 takar (150 ml) dengan PER >10%
+- 12.00: Makan siang + ikan/ayam/daging/telur (1 hati ayam)
+- 14.00: ASI perah 150 ml atau PDK 5 takar (150 ml)
+- 16.00: PDK 5 takar (150 ml) dengan PER >10%
+- 18.00: Makan malam + ikan/ayam/daging/telur (2-3 sdm daging sapi/ikan/ayam)
+- 20.00: ASI langsung (minimal 15 menit, maksimal 30 menit) atau ASI perah 150 ml
+
+Sumber: Keputusan Menteri Kesehatan Nomor HK.01.07/MENKES/1928/2022 tentang Pedoman Nasional Pelayanan Kedokteran Tata Laksana Stunting.

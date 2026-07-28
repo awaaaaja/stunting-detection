@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Build artifacts
+.next/
+out/
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts (large files — but keep them for Render deploy)
+model/artifacts/*.pkl
+!model/artifacts/rf_model_*.pkl
+!model/artifacts/xgb_model_*.pkl
+!model/artifacts/shap_explainer_*.pkl
+!model/artifacts/label_encoder_*.pkl
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Kaggle API
+kaggle.json
