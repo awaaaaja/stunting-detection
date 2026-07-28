@@ -3,6 +3,7 @@
 import { useState, useCallback, useRef } from "react";
 import { predict, listHistory } from "@/lib/api";
 import type { PredictResponse, HistorySummary } from "@/lib/types";
+import ReactMarkdown from "react-markdown";
 
 export default function Dashboard() {
   const [result, setResult] = useState<PredictResponse | null>(null);
@@ -318,16 +319,8 @@ function ResultPanel({ result }: { result: PredictResponse }) {
           </svg>
           <h3 className="font-semibold text-text">Rekomendasi</h3>
         </div>
-        <div className="text-sm text-text-secondary leading-relaxed space-y-2">
-          {result.rekomendasi.answer.split("\n").map((line, i) => {
-            if (line.startsWith("**") && line.endsWith("**")) {
-              return <p key={i} className="font-semibold text-text">{line.replace(/\*\*/g, "")}</p>;
-            }
-            if (/^\d+\./.test(line)) {
-              return <p key={i} className="ml-4">{line}</p>;
-            }
-            return <p key={i}>{line}</p>;
-          })}
+        <div className="text-sm text-text-secondary leading-relaxed prose prose-sm max-w-none prose-headings:text-text prose-strong:text-text">
+          <ReactMarkdown>{result.rekomendasi.answer}</ReactMarkdown>
         </div>
         {result.rekomendasi.sources.length > 0 && (
           <details className="mt-3">
